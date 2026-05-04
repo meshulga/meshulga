@@ -15,9 +15,3 @@ Senior Fullstack Developer with 5+ years of experience designing and building sc
 - mihalay26@gmail.com
 - [linkedin.com/in/meshulga](https://www.linkedin.com/in/meshulga/)
 - [t.me/meshulga](https://t.me/meshulga)
-
-Why this works:
-- Same prose register as your LinkedIn About → consistency
-- All keywords recruiters search are present
-- Three concrete projects (App Store, QR analytics, portfolio) → concrete proof
-- Three reach-out paths → low-friction contact
